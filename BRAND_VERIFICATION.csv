@@ -1,0 +1,581 @@
+group,name,domain,domain_status,evidence_url,notes
+global,Walmart,walmart.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Amazon.com,amazon.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,State Grid,sgcc.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China National Petroleum,cnpc.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Sinopec Group,sinopec.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Saudi Aramco,aramco.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Apple,apple.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Volkswagen,volkswagenag.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China State Construction Engineering,cscec.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,CVS Health,cvshealth.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,UnitedHealth Group,unitedhealthgroup.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Exxon Mobil,exxonmobil.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Toyota Motor,global.toyota,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Berkshire Hathaway,berkshirehathaway.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Shell,shell.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,McKesson,mckesson.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Alphabet,abc.xyz,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Samsung Electronics,samsung.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Trafigura Group,trafigura.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Hon Hai Precision Industry,foxconn.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,AmerisourceBergen,amerisourcebergen.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Industrial & Commercial Bank of China,icbc-ltd.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Glencore,glencore.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Construction Bank,ccb.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Ping An Insurance,group.pingan.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Costco Wholesale,costco.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,TotalEnergies,totalenergies.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Agricultural Bank of China,abchina.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Stellantis,stellantis.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Cigna,cigna.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Sinochem Holdings,sinochem.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,AT&T,att.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Microsoft,microsoft.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Railway Engineering Group,crecg.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,BP,bp.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Cardinal Health,cardinalhealth.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Chevron,chevron.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Mercedes-Benz Group,group.mercedes-benz.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Railway Construction,crcc.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Life Insurance,chinalife.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Mitsubishi,mitsubishicorp.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Bank of China,boc.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Home Depot,homedepot.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Baowu Steel Group,baowugroup.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Walgreens Boots Alliance,walgreensbootsalliance.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,JD.com,jd.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Allianz,allianz.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,AXA,axa.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Marathon Petroleum,marathonpetroleum.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Elevance Health,elevancehealth.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Kroger,thekrogerco.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Gazprom,gazprom.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Ford Motor,ford.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Verizon Communications,verizon.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Alibaba Group Holding,alibabagroup.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Fortum,fortum.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Mobile Communications,10086.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Minmetals,minmetals.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,BMW Group,bmwgroup.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Communications Construction,ccccltd.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Honda Motor,global.honda,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Deutsche Telekom,telekom.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,JPMorgan Chase,jpmorganchase.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,General Motors,gm.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China National Offshore Oil,cnooc.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Centene,centene.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Lukoil,lukoil.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,SAIC Motor,saicmotor.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Shandong Energy Group,shandong-energy.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Resources,crc.com.hk,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Meta Platforms,fb.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Assicurazioni Generali,generali.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Comcast,comcastcorporation.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Phillips 66,phillips66.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Hengli Group,hengli.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Amer International Group,amer.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Xiamen C&D,chinacdc.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Itochu,itochu.co.jp,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China FAW Group,faw.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Sinopharm,sinopharm.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Post Group,chinapost.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Valero Energy,valero.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Nippon Telegraph and Telephone,group.ntt,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Crédit Agricole,credit-agricole.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Energy Investment,ceic.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Dell Technologies,delltechnologies.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Target,target.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Mitsui,mitsui.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Southern Power Grid,csg.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Enel,enel.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,COFCO,cofco.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Hyundai Motor,worldwide.hyundai.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Fannie Mae,fanniemae.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Japan Post Holdings,japanpost.jp,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Electricité de France,edf.fr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Huawei Investment & Holding,huawei.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,United Parcel Service,ups.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Life Insurance Corp. of India,licindia.in,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Deutsche Post DHL Group,dpdhl.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,PowerChina,powerchina.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Lowe's,lowes.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,CITIC Group,group.citic,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Nestlé,nestle.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Reliance Industries,ril.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Bank of America,bankofamerica.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Xiamen ITG Holding Group,itgholding.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Johnson & Johnson,jnj.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Bosch Group,bosch.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,BASF,basf.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,People's Insurance Co. of China,picc.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,ENI,eni.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,E.ON,eon.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Hitachi,hitachi.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Equinor,equinor.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Royal Ahold Delhaize,aholddelhaize.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Sony,sony.net,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,SK,sk.co.kr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Rosneft Oil,rosneft.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Carrefour,carrefour.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Wuchan Zhongda Group,wzgroup.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Tencent Holdings,tencent.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Dongfeng Motor,dfmc.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,BNP Paribas,group.bnpparibas,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Archer Daniels Midland,adm.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Greenland Holding Group,ldjt.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Tesco,tescoplc.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,COSCO Shipping,coscoshipping.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Petrobras,petrobras.com.br,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,FedEx,fedex.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Engie,engie.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Telecommunications,chinatelecom.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Humana,humana.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Munich Re Group,munichre.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Wells Fargo,wellsfargo.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,State Farm Insurance,statefarm.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China North Industries Group,norincogroup.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Pfizer,pfizer.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Country Garden Holdings,countrygarden.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Aluminum Corp. of China,chinalco.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,ENEOS Holdings,hd.eneos.co.jp,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Citigroup,citigroup.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Indian Oil,iocl.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,PepsiCo,pepsico.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Aviation Industry Corp. of China,avic.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Intel,intel.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Banco Santander,santander.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Seven & I Holdings,7andi.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,AEON,aeon.info,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,HSBC Holdings,hsbc.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Pacific Construction Group,cpcg.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,U.S. Postal Service,usps.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Merchants Group,cmhk.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,ArcelorMittal,arcelormittal.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Procter & Gamble,pg.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Bank of Communications,bankcomm.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Christian Dior,dior-finance.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Marubeni,marubeni.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Brookfield Asset Management,brookfield.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Siemens,siemens.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,XMXYG,xiangyu-group.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Nissan Motor,nissan-global.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Beijing Automotive Group,baicgroup.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Jinneng Holding Group,dtcoalmine.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Nippon Life Insurance,nissay.co.jp,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,General Electric,ge.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Pemex,pemex.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Dai-ichi Life Holdings,dai-ichi-life-hd.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,International Business Machines,ibm.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Roche Group,roche.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Albertsons,albertsonscompanies.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Lenovo Group,lenovo.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Toyota Tsusho,toyota-tsusho.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,MetLife,metlife.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Merchants Bank,cmbchina.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Prudential Financial,prudential.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Jiangxi Copper,jxcc.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,PTT,pttplc.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Vanke,vanke.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Zurich Insurance Group,zurich.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Zhejiang Rongsheng Holding Group,rong-sheng.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Poly Group,poly.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Pacific Insurance (Group),cpic.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Walt Disney,thewaltdisneycompany.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Energy Transfer,energytransfer.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Lockheed Martin,lockheedmartin.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Guangzhou Automobile Industry Group,gac.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,LG Electronics,lg.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,POSCO Holdings,posco.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,HBIS Group,hbisco.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Oil & Natural Gas,ongcindia.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Freddie Mac,freddiemac.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Wilmar International,wilmar-international.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Panasonic Holdings,holdings.panasonic,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,JBS,jbs.com.br,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Goldman Sachs Group,goldmansachs.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China National Building Material Group,cnbm.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Raytheon Technologies,rtx.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Aviva,aviva.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Shandong Weiqiao Pioneering Group,weiqiaocy.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Aegon,aegon.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Rio Tinto Group,riotinto.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,HP,hp.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Legal & General Group,legalandgeneralgroup.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Boeing,boeing.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Unilever,unilever.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Maersk Group,maersk.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Airbus,airbus.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Industrial Bank,cib.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Shaanxi Coal & Chemical Industry,shccig.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Everbright Group,ebchina.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Morgan Stanley,morganstanley.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Kia,kia.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,BHP Group,bhp.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Nippon Steel Corporation,nipponsteel.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Huaneng Group,chng.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Petronas,petronas.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Ansteel Group,ansteel.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Vinci,vinci.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Bunge,bunge.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Société Générale,societegenerale.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,HCA Healthcare,hcahealthcare.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Lloyds Banking Group,lloydsbankinggroup.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Pertamina,pertamina.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Sinomach,sinomach.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Taiwan Semiconductor Manufacturing,tsmc.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Shanghai Pudong Development Bank,spdb.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,AbbVie,abbvie.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,CMA CGM,cma-cgm.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Zhejiang Geely Holding Group,zgh.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Deutsche Bahn,deutschebahn.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Vale,vale.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Power Corp. of Canada,powercorporation.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Electronics Technology Group,cetc.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,SoftBank Group,group.softbank,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Dow,dow.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,State Bank of India,sbi.co.in,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Renault,renaultgroup.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Tsingshan Holding Group,tssgroup.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Anheuser-Busch InBev,ab-inbev.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Mitsubishi UFJ Financial Group,mufg.jp,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Shenghong Holding Group,shenghonggroup.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Tesla,tesla.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China State Shipbuilding,cssc.net.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Talanx,talanx.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Midea Group,midea-group.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Allstate,allstate.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Vodafone Group,vodafone.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Novartis,novartis.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Korea Electric Power,kepco.co.kr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Idemitsu Kosan,idemitsu.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Repsol,repsol.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Saint-Gobain,saint-gobain.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Tokio Marine Holdings,tokiomarinehd.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Bayer,bayer.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,American International Group,aig.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Edeka Zentrale,verbund.edeka,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Shaanxi Yanchang Petroleum (Group),sxycpc.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Best Buy,investors.bestbuy.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Charter Communications,charter.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,State Power Investment,spic.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Sysco,sysco.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Merck,merck.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,New York Life Insurance,newyorklife.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Zhejiang Hengyi Group,hengyi.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Caterpillar,caterpillar.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Xiaomi,mi.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China United Network Communications,chinaunicom-a.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Accenture,accenture.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Energy Engineering Group,ceec.net.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Sberbank,sberbank.ru,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Orange,orange.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Woolworths Group,woolworthsgroup.com.au,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Minsheng Banking,cmbc.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Cisco Systems,cisco.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,América Móvil,americamovil.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Louis Dreyfus,ldc.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Manulife Financial,manulife.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Denso,denso.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Sumitomo,sumitomocorp.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,TJX,tjx.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,KDDI,kddi.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Groupe BPCE,groupebpce.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Publix Super Markets,publix.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,ConocoPhillips,conocophillips.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Liberty Mutual Insurance Group,libertymutual.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Progressive,progressive.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Ingka Group,ingka.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,AIA Group,aia.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Nationwide,nationwide.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Tokyo Electric Power,tepco.co.jp,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Jiangsu Shagang Group,shasteel.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Tyson Foods,tysonfoods.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,EXOR Group,exor.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,GSK,gsk.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Bharat Petroleum,bharatpetroleum.in,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Swiss Re,swissre.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China National Coal Group,chinacoal.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Intesa Sanpaolo,group.intesasanpaolo.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Susun Construction Group,ss-ceo.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Telefónica,telefonica.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Bristol-Myers Squibb,bms.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Zhejiang Communications Investment Group,cncico.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Sanofi,sanofi.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Iberdrola,iberdrola.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,LyondellBasell Industries,lyondellbasell.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Hanwha,hanwhacorp.co.kr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Royal Bank of Canada,rbc.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Alimentation Couche-Tard,corpo.couche-tard.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,MS&AD Insurance Group Holdings,ms-ad-hd.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,ZF Friedrichshafen,zf.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Pegatron,pegatroncorp.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Continental,continental.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Nike,nike.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Bouygues,bouygues.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China South Industries Group,csgc.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Fresenius,fresenius.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Compal Electronics,compal.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Deere,deere.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,George Weston,weston.ca,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,American Express,americanexpress.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Shanghai Construction Group,scg.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Aerospace Science & Technology,spacechina.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Volvo,volvogroup.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Electronics,cec.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Abbott Laboratories,abbott.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Huadian,chd.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,StoneX Group,stonex.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Shougang Group,shougang.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Plains GP Holdings,plains.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,OMV Group,omv.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Anglo American,angloamerican.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Shandong Iron & Steel Group,shansteelgroup.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Itaú Unibanco Holding,itau.com.br,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Taiping Insurance Group,cntaiping.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,SNCF Group,sncf.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Hangzhou Iron and Steel Group,hzsteel.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,DZ Bank,dzbank.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Chubb,chubb.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Jinchuan Group,jnmc.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,La Poste,groupelaposte.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Aerospace Science & Industry,casic.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,J. Sainsbury,about.sainsburys.co.uk,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Enterprise Products Partners,enterpriseproducts.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,ThyssenKrupp,thyssenkrupp.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,UBS Group,ubs.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Taikang Insurance Group,taikang.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,TIAA,tiaa.org,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Oracle,oracle.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Quanta Computer,quantatw.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Deutsche Bank,db.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Mitsubishi Electric,mitsubishielectric.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Banco Bilbao Vizcaya Argentaria,bbva.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Anhui Conch Group,chinaconch.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Daiwa House Industry,daiwahouse.co.jp,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Thermo Fisher Scientific,thermofisher.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,New Hope Holding Group,newhopegroup.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Koç Holding,koc.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,JFE Holdings,jfe-holdings.co.jp,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Coca-Cola,coca-colacompany.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Guangzhou Municipal Construction Group,gzmcg.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,General Dynamics,gd.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,CHS,chsinc.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Beijing Jianlong Heavy Industry Group,ejianlong.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China National Nuclear,cnnc.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,ACS,grupoacs.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Toronto-Dominion Bank,td.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,L'Oréal,loreal.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Energie Baden-Württemberg,enbw.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,LG Chem,lgchem.co.kr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Tata Motors,tatamotors.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,ELO Group,groupe-elo.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Shenzhen Investment Holdings,sihc.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,SK Hynix,skhynix.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Barclays,home.barclays,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Enbridge,enbridge.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Cathay Financial Holding,cathayholdings.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Meiji Yasuda Life Insurance,meijiyasuda.co.jp,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Poste Italiane,posteitaliane.it,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,United Services Automobile Assn.,usaa.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Finatis,finatis.fr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,AstraZeneca,astrazeneca.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,KB Financial Group,kbfg.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Sompo Holdings,sompo-hd.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Cenovus Energy,cenovus.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,CRRC Group,crrcgc.cc,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Jingye Group,hbjyjt.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Northwestern Mutual,northwesternmutual.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Sumitomo Mitsui Financial Group,smfg.co.jp,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Nucor,nucor.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Hyundai Mobis,mobis.co.kr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Exelon,exeloncorp.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Magna International,magna.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,CK Hutchison Holdings,ckh.com.hk,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Phoenix Pharma,phoenixgroup.eu,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Massachusetts Mutual Life Insurance,massmutual.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Kuehne + Nagel International,kuehne-nagel.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Jardine Matheson,jardines.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Raízen,raizen.com.br,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Northrop Grumman,northropgrumman.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,TongLing Nonferrous Metals Group,tnmg.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Mitsubishi Chemical Holdings,mitsubishichem-hd.co.jp,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,3M,3m.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,British American Tobacco,bat.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Mizuho Financial Group,mizuhogroup.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Haier Smart Home,haier.net,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Olam Group,olamgroup.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Zijin Mining Group,zjky.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Heraeus Holding,heraeus.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Aisin,aisin.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Travelers,travelers.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China Datang,china-cdt.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Longfor Group Holdings,longfor.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Shudao Investment Group,shudaojt.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,China National Aviation Fuel Group,cnaf.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Arrow Electronics,arrow.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,New China Life Insurance,newchinalife.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Honeywell International,honeywell.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Mitsubishi Heavy Industries,mhi.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Dollar General,dollargeneral.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Schneider Electric,se.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Hunan Iron & Steel Group,chinavalin.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Lu’an Chemical Group,chinaluan.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Siemens Energy,siemens-energy.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,PKN ORLEN Group,orlen.pl,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,ING Group,ing.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Phoenix Group Holdings,thephoenixgroup.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Veolia Environnement,veolia.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Coop Group,coop.ch,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Qualcomm,qualcomm.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Shanghai Pharmaceuticals Holding,sphchina.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Shanxi Coking Coal Group,sxcc.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,CarMax,carmax.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,SAP,sap.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Xinjiang Zhongtai Group,ww.zhtx.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Tata Steel,tatasteel.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,BYD,byd.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Rajesh Exports,rajeshindia.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Inditex,inditex.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Banco Bradesco,bradesco.com.br,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Fubon Financial Holding,fubon.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,S.F. Holding,sf-express.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Sumitomo Life Insurance,sumitomolife.co.jp,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Capital One Financial,capitalone.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Canon,global.canon,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Guangxi Investment Group,gig.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Fujitsu,fujitsu.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Yunnan Provincial Investment Holding Group,cnyig.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Takeda Pharmaceutical,takeda.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Suzuki Motor,globalsuzuki.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Migros Group,migros.ch,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,TD Synnex,tdsynnex.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Weichai Power,weichaipower.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Xinjiang Guanghui Industry Investment,guanghui.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Philip Morris International,pmi.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,World Fuel Services,wfscorp.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Bank of Nova Scotia,scotiabank.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Suncor Energy,suncor.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Shandong Hi-Speed Group,sdhsg.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Hailiang Group,hailiang.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,CRH,crh.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Investor,investorab.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Wistron,wistron.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Linde,linde.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Samsung Life Insurance,samsunglife.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Banco do Brasil,bb.com.br,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Chengdu Xingcheng Investment Group,cdxctz.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Guangzhou Pharmaceutical Holdings,gpc.com.cn,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Performance Food Group,pfgc.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Shanghai Delong Steel Group,shanghaidelong.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,GS Caltex,gscaltex.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Mercadona,mercadona.es,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,CJ Corp.,cj.net,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Medtronic,medtronic.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Samsung C&T,samsungcnt.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,CPC,cpc.com.tw,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Sumitomo Electric Industries,global-sei.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,X5 Retail Group,x5.ru,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Delta Air Lines,delta.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,American Airlines Group,aa.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Toshiba,toshiba.co.jp,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Netflix,netflix.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Metro,metroag.de,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Paramount Global,paramount.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Bridgestone,bridgestone.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,US Foods Holding,usfoods.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Danaher,danaher.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Gree Electric Appliances,gree.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Holcim,holcim.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Medipal Holdings,medipal.co.jp,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Jabil,jabil.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Randstad,randstad.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Starbucks,starbucks.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Coles Group,colesgroup.com.au,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Credit Suisse Group,credit-suisse.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,RWE,rwe.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,DSV,dsv.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,ABB,abb.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Mondelez International,mondelezinternational.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Danone,danone.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+global,Umicore,umicore.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Akbank,akbank.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,DenizBank,denizbank.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Enpara,enpara.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Fibabanka,fibabanka.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Garanti BBVA,garantibbva.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Halkbank,halkbank.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,HSBC Türkiye,hsbc.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,ING Türkiye,ing.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,İş Bankası,isbank.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,QNB Türkiye,qnb.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Şekerbank,sekerbank.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,TEB,teb.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,VakıfBank,vakifbank.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Yapı Kredi,yapikredi.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Ziraat Bankası,ziraatbank.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Albaraka Türk,albaraka.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Kuveyt Türk,kuveytturk.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Türkiye Finans,turkiyefinans.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Vakıf Katılım,vakifkatilim.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Ziraat Katılım,ziraatkatilim.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Trendyol,trendyol.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Hepsiburada,hepsiburada.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,n11,n11.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,PttAVM,pttavm.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Pazarama,pazarama.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Amazon Türkiye,amazon.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,ÇiçekSepeti,ciceksepeti.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Yemeksepeti,yemeksepeti.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Migros Sanal Market,migros.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Migros Sanal Market,sanalmarket.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,A101,a101.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,BİM,bim.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,ŞOK Market,sokmarket.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,CarrefourSA,carrefoursa.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Teknosa,teknosa.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Gratis,gratis.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Aras Kargo,araskargo.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Yurtiçi Kargo,yurticikargo.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Sürat Kargo,suratkargo.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,DHL eCommerce Türkiye,dhlecommerce.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Kolay Gelsin,kolaygelsin.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Trendyol Express,trendyolexpress.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,HepsiJET,hepsijet.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Bir Günde Kargo,birgundekargo.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Horoz Lojistik,horoz.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,PTT Kargo,ptt.gov.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Turkcell,turkcell.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Türk Telekom,turktelekom.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Vodafone Türkiye,vodafone.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,TurkNet,turk.net,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Türksat Kablo,turksatkablo.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Turkish Airlines,turkishairlines.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Pegasus Airlines,flypgs.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,AJet,ajet.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,SunExpress,sunexpress.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Obilet,obilet.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,e-Devlet,turkiye.gov.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Gelir İdaresi Başkanlığı,gib.gov.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,SGK,sgk.gov.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,İŞKUR,iskur.gov.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,e-Nabız,enabiz.gov.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,MHRS,mhrs.gov.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Nüfus ve Vatandaşlık İşleri,nvi.gov.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,ÖSYM,osym.gov.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Millî Eğitim Bakanlığı,meb.gov.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,CİMER,cimer.gov.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Papara,papara.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Paycell,paycell.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,ininal,ininal.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Tosla,tosla.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,LC Waikiki,lcw.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,LC Waikiki,lcwaikiki.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Boyner,boyner.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,MediaMarkt Türkiye,mediamarkt.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Vatan Bilgisayar,vatanbilgisayar.com,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Arçelik,arcelik.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+turkey,Beko Türkiye,beko.com.tr,user_supplied_unverified,,2026-10-14 supplied catalog; not independently verified
+compatibility,PayPal,paypal.com,legacy_unverified,,V1.3 compatibility signature to keep existing detection tests
+compatibility,Google,google.com,legacy_unverified,,V1.3 compatibility signature to keep existing detection tests
+compatibility,GitHub,github.com,legacy_unverified,,V1.3 compatibility signature to keep existing detection tests
