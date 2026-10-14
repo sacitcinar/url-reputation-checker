@@ -1,0 +1,18 @@
+{
+  "openphish": {
+    "source": "https://openphish.com/phishing_feeds.html",
+    "snapshot_date": null,
+    "notes": "Not distributed: OpenPhish terms prohibit redistributing feed data without permission. Users must obtain appropriate permission before using a local copy."
+  },
+  "cert_polska": {
+    "source": "https://hole.cert.pl/domains/v2/domains.txt",
+    "snapshot_date": "2026-10-14",
+    "notes": "Static warning-list snapshot supplied by project owner on 2026-10-14; never updated automatically."
+  },
+  "phishing_database": {
+    "source": "https://github.com/Phishing-Database/Phishing.Database",
+    "snapshot_date": "2026-10-14",
+    "notes": "Static ACTIVE domains and ACTIVE links snapshots supplied by project owner on 2026-10-14; no automatic updates. Source data is MIT-licensed; see THIRD_PARTY_NOTICES.md.",
+    "urls_source": "https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-ACTIVE.txt"
+  }
+}
