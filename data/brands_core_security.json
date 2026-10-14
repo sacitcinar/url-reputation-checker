@@ -1,0 +1,23 @@
+[
+  {
+    "name": "PayPal",
+    "domains": [
+      "paypal.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Google",
+    "domains": [
+      "google.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "GitHub",
+    "domains": [
+      "github.com"
+    ],
+    "aliases": []
+  }
+]

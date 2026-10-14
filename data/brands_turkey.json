@@ -1,0 +1,529 @@
+[
+  {
+    "name": "Akbank",
+    "domains": [
+      "akbank.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "DenizBank",
+    "domains": [
+      "denizbank.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Enpara",
+    "domains": [
+      "enpara.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Fibabanka",
+    "domains": [
+      "fibabanka.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Garanti BBVA",
+    "domains": [
+      "garantibbva.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Halkbank",
+    "domains": [
+      "halkbank.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "HSBC Türkiye",
+    "domains": [
+      "hsbc.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "ING Türkiye",
+    "domains": [
+      "ing.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "İş Bankası",
+    "domains": [
+      "isbank.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "QNB Türkiye",
+    "domains": [
+      "qnb.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Şekerbank",
+    "domains": [
+      "sekerbank.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "TEB",
+    "domains": [
+      "teb.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "VakıfBank",
+    "domains": [
+      "vakifbank.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Yapı Kredi",
+    "domains": [
+      "yapikredi.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Ziraat Bankası",
+    "domains": [
+      "ziraatbank.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Albaraka Türk",
+    "domains": [
+      "albaraka.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Kuveyt Türk",
+    "domains": [
+      "kuveytturk.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Türkiye Finans",
+    "domains": [
+      "turkiyefinans.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Vakıf Katılım",
+    "domains": [
+      "vakifkatilim.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Ziraat Katılım",
+    "domains": [
+      "ziraatkatilim.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Trendyol",
+    "domains": [
+      "trendyol.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Hepsiburada",
+    "domains": [
+      "hepsiburada.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "n11",
+    "domains": [
+      "n11.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "PttAVM",
+    "domains": [
+      "pttavm.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Pazarama",
+    "domains": [
+      "pazarama.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Amazon Türkiye",
+    "domains": [
+      "amazon.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "ÇiçekSepeti",
+    "domains": [
+      "ciceksepeti.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Yemeksepeti",
+    "domains": [
+      "yemeksepeti.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Migros Sanal Market",
+    "domains": [
+      "migros.com.tr",
+      "sanalmarket.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "A101",
+    "domains": [
+      "a101.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "BİM",
+    "domains": [
+      "bim.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "ŞOK Market",
+    "domains": [
+      "sokmarket.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "CarrefourSA",
+    "domains": [
+      "carrefoursa.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Teknosa",
+    "domains": [
+      "teknosa.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Gratis",
+    "domains": [
+      "gratis.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Aras Kargo",
+    "domains": [
+      "araskargo.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Yurtiçi Kargo",
+    "domains": [
+      "yurticikargo.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Sürat Kargo",
+    "domains": [
+      "suratkargo.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "DHL eCommerce Türkiye",
+    "domains": [
+      "dhlecommerce.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Kolay Gelsin",
+    "domains": [
+      "kolaygelsin.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Trendyol Express",
+    "domains": [
+      "trendyolexpress.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "HepsiJET",
+    "domains": [
+      "hepsijet.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Bir Günde Kargo",
+    "domains": [
+      "birgundekargo.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Horoz Lojistik",
+    "domains": [
+      "horoz.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "PTT Kargo",
+    "domains": [
+      "ptt.gov.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Turkcell",
+    "domains": [
+      "turkcell.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Türk Telekom",
+    "domains": [
+      "turktelekom.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Vodafone Türkiye",
+    "domains": [
+      "vodafone.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "TurkNet",
+    "domains": [
+      "turk.net"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Türksat Kablo",
+    "domains": [
+      "turksatkablo.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Turkish Airlines",
+    "domains": [
+      "turkishairlines.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Pegasus Airlines",
+    "domains": [
+      "flypgs.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "AJet",
+    "domains": [
+      "ajet.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "SunExpress",
+    "domains": [
+      "sunexpress.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Obilet",
+    "domains": [
+      "obilet.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "e-Devlet",
+    "domains": [
+      "turkiye.gov.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Gelir İdaresi Başkanlığı",
+    "domains": [
+      "gib.gov.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "SGK",
+    "domains": [
+      "sgk.gov.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "İŞKUR",
+    "domains": [
+      "iskur.gov.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "e-Nabız",
+    "domains": [
+      "enabiz.gov.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "MHRS",
+    "domains": [
+      "mhrs.gov.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Nüfus ve Vatandaşlık İşleri",
+    "domains": [
+      "nvi.gov.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "ÖSYM",
+    "domains": [
+      "osym.gov.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Millî Eğitim Bakanlığı",
+    "domains": [
+      "meb.gov.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "CİMER",
+    "domains": [
+      "cimer.gov.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Papara",
+    "domains": [
+      "papara.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Paycell",
+    "domains": [
+      "paycell.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "ininal",
+    "domains": [
+      "ininal.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Tosla",
+    "domains": [
+      "tosla.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "LC Waikiki",
+    "domains": [
+      "lcw.com",
+      "lcwaikiki.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Boyner",
+    "domains": [
+      "boyner.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "MediaMarkt Türkiye",
+    "domains": [
+      "mediamarkt.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Vatan Bilgisayar",
+    "domains": [
+      "vatanbilgisayar.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Arçelik",
+    "domains": [
+      "arcelik.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Beko Türkiye",
+    "domains": [
+      "beko.com.tr"
+    ],
+    "aliases": []
+  }
+]

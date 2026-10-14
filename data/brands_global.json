@@ -1,0 +1,3502 @@
+[
+  {
+    "name": "Walmart",
+    "domains": [
+      "walmart.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Amazon.com",
+    "domains": [
+      "amazon.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "State Grid",
+    "domains": [
+      "sgcc.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China National Petroleum",
+    "domains": [
+      "cnpc.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Sinopec Group",
+    "domains": [
+      "sinopec.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Saudi Aramco",
+    "domains": [
+      "aramco.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Apple",
+    "domains": [
+      "apple.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Volkswagen",
+    "domains": [
+      "volkswagenag.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China State Construction Engineering",
+    "domains": [
+      "cscec.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "CVS Health",
+    "domains": [
+      "cvshealth.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "UnitedHealth Group",
+    "domains": [
+      "unitedhealthgroup.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Exxon Mobil",
+    "domains": [
+      "exxonmobil.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Toyota Motor",
+    "domains": [
+      "global.toyota"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Berkshire Hathaway",
+    "domains": [
+      "berkshirehathaway.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Shell",
+    "domains": [
+      "shell.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "McKesson",
+    "domains": [
+      "mckesson.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Alphabet",
+    "domains": [
+      "abc.xyz"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Samsung Electronics",
+    "domains": [
+      "samsung.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Trafigura Group",
+    "domains": [
+      "trafigura.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Hon Hai Precision Industry",
+    "domains": [
+      "foxconn.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "AmerisourceBergen",
+    "domains": [
+      "amerisourcebergen.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Industrial & Commercial Bank of China",
+    "domains": [
+      "icbc-ltd.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Glencore",
+    "domains": [
+      "glencore.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Construction Bank",
+    "domains": [
+      "ccb.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Ping An Insurance",
+    "domains": [
+      "group.pingan.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Costco Wholesale",
+    "domains": [
+      "costco.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "TotalEnergies",
+    "domains": [
+      "totalenergies.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Agricultural Bank of China",
+    "domains": [
+      "abchina.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Stellantis",
+    "domains": [
+      "stellantis.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Cigna",
+    "domains": [
+      "cigna.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Sinochem Holdings",
+    "domains": [
+      "sinochem.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "AT&T",
+    "domains": [
+      "att.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Microsoft",
+    "domains": [
+      "microsoft.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Railway Engineering Group",
+    "domains": [
+      "crecg.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "BP",
+    "domains": [
+      "bp.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Cardinal Health",
+    "domains": [
+      "cardinalhealth.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Chevron",
+    "domains": [
+      "chevron.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Mercedes-Benz Group",
+    "domains": [
+      "group.mercedes-benz.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Railway Construction",
+    "domains": [
+      "crcc.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Life Insurance",
+    "domains": [
+      "chinalife.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Mitsubishi",
+    "domains": [
+      "mitsubishicorp.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Bank of China",
+    "domains": [
+      "boc.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Home Depot",
+    "domains": [
+      "homedepot.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Baowu Steel Group",
+    "domains": [
+      "baowugroup.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Walgreens Boots Alliance",
+    "domains": [
+      "walgreensbootsalliance.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "JD.com",
+    "domains": [
+      "jd.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Allianz",
+    "domains": [
+      "allianz.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "AXA",
+    "domains": [
+      "axa.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Marathon Petroleum",
+    "domains": [
+      "marathonpetroleum.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Elevance Health",
+    "domains": [
+      "elevancehealth.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Kroger",
+    "domains": [
+      "thekrogerco.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Gazprom",
+    "domains": [
+      "gazprom.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Ford Motor",
+    "domains": [
+      "ford.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Verizon Communications",
+    "domains": [
+      "verizon.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Alibaba Group Holding",
+    "domains": [
+      "alibabagroup.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Fortum",
+    "domains": [
+      "fortum.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Mobile Communications",
+    "domains": [
+      "10086.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Minmetals",
+    "domains": [
+      "minmetals.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "BMW Group",
+    "domains": [
+      "bmwgroup.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Communications Construction",
+    "domains": [
+      "ccccltd.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Honda Motor",
+    "domains": [
+      "global.honda"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Deutsche Telekom",
+    "domains": [
+      "telekom.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "JPMorgan Chase",
+    "domains": [
+      "jpmorganchase.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "General Motors",
+    "domains": [
+      "gm.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China National Offshore Oil",
+    "domains": [
+      "cnooc.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Centene",
+    "domains": [
+      "centene.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Lukoil",
+    "domains": [
+      "lukoil.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "SAIC Motor",
+    "domains": [
+      "saicmotor.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Shandong Energy Group",
+    "domains": [
+      "shandong-energy.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Resources",
+    "domains": [
+      "crc.com.hk"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Meta Platforms",
+    "domains": [
+      "fb.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Assicurazioni Generali",
+    "domains": [
+      "generali.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Comcast",
+    "domains": [
+      "comcastcorporation.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Phillips 66",
+    "domains": [
+      "phillips66.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Hengli Group",
+    "domains": [
+      "hengli.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Amer International Group",
+    "domains": [
+      "amer.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Xiamen C&D",
+    "domains": [
+      "chinacdc.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Itochu",
+    "domains": [
+      "itochu.co.jp"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China FAW Group",
+    "domains": [
+      "faw.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Sinopharm",
+    "domains": [
+      "sinopharm.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Post Group",
+    "domains": [
+      "chinapost.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Valero Energy",
+    "domains": [
+      "valero.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Nippon Telegraph and Telephone",
+    "domains": [
+      "group.ntt"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Crédit Agricole",
+    "domains": [
+      "credit-agricole.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Energy Investment",
+    "domains": [
+      "ceic.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Dell Technologies",
+    "domains": [
+      "delltechnologies.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Target",
+    "domains": [
+      "target.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Mitsui",
+    "domains": [
+      "mitsui.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Southern Power Grid",
+    "domains": [
+      "csg.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Enel",
+    "domains": [
+      "enel.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "COFCO",
+    "domains": [
+      "cofco.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Hyundai Motor",
+    "domains": [
+      "worldwide.hyundai.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Fannie Mae",
+    "domains": [
+      "fanniemae.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Japan Post Holdings",
+    "domains": [
+      "japanpost.jp"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Electricité de France",
+    "domains": [
+      "edf.fr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Huawei Investment & Holding",
+    "domains": [
+      "huawei.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "United Parcel Service",
+    "domains": [
+      "ups.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Life Insurance Corp. of India",
+    "domains": [
+      "licindia.in"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Deutsche Post DHL Group",
+    "domains": [
+      "dpdhl.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "PowerChina",
+    "domains": [
+      "powerchina.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Lowe's",
+    "domains": [
+      "lowes.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "CITIC Group",
+    "domains": [
+      "group.citic"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Nestlé",
+    "domains": [
+      "nestle.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Reliance Industries",
+    "domains": [
+      "ril.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Bank of America",
+    "domains": [
+      "bankofamerica.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Xiamen ITG Holding Group",
+    "domains": [
+      "itgholding.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Johnson & Johnson",
+    "domains": [
+      "jnj.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Bosch Group",
+    "domains": [
+      "bosch.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "BASF",
+    "domains": [
+      "basf.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "People's Insurance Co. of China",
+    "domains": [
+      "picc.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "ENI",
+    "domains": [
+      "eni.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "E.ON",
+    "domains": [
+      "eon.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Hitachi",
+    "domains": [
+      "hitachi.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Equinor",
+    "domains": [
+      "equinor.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Royal Ahold Delhaize",
+    "domains": [
+      "aholddelhaize.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Sony",
+    "domains": [
+      "sony.net"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "SK",
+    "domains": [
+      "sk.co.kr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Rosneft Oil",
+    "domains": [
+      "rosneft.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Carrefour",
+    "domains": [
+      "carrefour.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Wuchan Zhongda Group",
+    "domains": [
+      "wzgroup.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Tencent Holdings",
+    "domains": [
+      "tencent.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Dongfeng Motor",
+    "domains": [
+      "dfmc.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "BNP Paribas",
+    "domains": [
+      "group.bnpparibas"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Archer Daniels Midland",
+    "domains": [
+      "adm.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Greenland Holding Group",
+    "domains": [
+      "ldjt.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Tesco",
+    "domains": [
+      "tescoplc.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "COSCO Shipping",
+    "domains": [
+      "coscoshipping.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Petrobras",
+    "domains": [
+      "petrobras.com.br"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "FedEx",
+    "domains": [
+      "fedex.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Engie",
+    "domains": [
+      "engie.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Telecommunications",
+    "domains": [
+      "chinatelecom.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Humana",
+    "domains": [
+      "humana.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Munich Re Group",
+    "domains": [
+      "munichre.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Wells Fargo",
+    "domains": [
+      "wellsfargo.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "State Farm Insurance",
+    "domains": [
+      "statefarm.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China North Industries Group",
+    "domains": [
+      "norincogroup.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Pfizer",
+    "domains": [
+      "pfizer.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Country Garden Holdings",
+    "domains": [
+      "countrygarden.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Aluminum Corp. of China",
+    "domains": [
+      "chinalco.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "ENEOS Holdings",
+    "domains": [
+      "hd.eneos.co.jp"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Citigroup",
+    "domains": [
+      "citigroup.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Indian Oil",
+    "domains": [
+      "iocl.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "PepsiCo",
+    "domains": [
+      "pepsico.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Aviation Industry Corp. of China",
+    "domains": [
+      "avic.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Intel",
+    "domains": [
+      "intel.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Banco Santander",
+    "domains": [
+      "santander.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Seven & I Holdings",
+    "domains": [
+      "7andi.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "AEON",
+    "domains": [
+      "aeon.info"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "HSBC Holdings",
+    "domains": [
+      "hsbc.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Pacific Construction Group",
+    "domains": [
+      "cpcg.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "U.S. Postal Service",
+    "domains": [
+      "usps.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Merchants Group",
+    "domains": [
+      "cmhk.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "ArcelorMittal",
+    "domains": [
+      "arcelormittal.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Procter & Gamble",
+    "domains": [
+      "pg.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Bank of Communications",
+    "domains": [
+      "bankcomm.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Christian Dior",
+    "domains": [
+      "dior-finance.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Marubeni",
+    "domains": [
+      "marubeni.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Brookfield Asset Management",
+    "domains": [
+      "brookfield.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Siemens",
+    "domains": [
+      "siemens.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "XMXYG",
+    "domains": [
+      "xiangyu-group.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Nissan Motor",
+    "domains": [
+      "nissan-global.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Beijing Automotive Group",
+    "domains": [
+      "baicgroup.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Jinneng Holding Group",
+    "domains": [
+      "dtcoalmine.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Nippon Life Insurance",
+    "domains": [
+      "nissay.co.jp"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "General Electric",
+    "domains": [
+      "ge.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Pemex",
+    "domains": [
+      "pemex.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Dai-ichi Life Holdings",
+    "domains": [
+      "dai-ichi-life-hd.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "International Business Machines",
+    "domains": [
+      "ibm.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Roche Group",
+    "domains": [
+      "roche.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Albertsons",
+    "domains": [
+      "albertsonscompanies.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Lenovo Group",
+    "domains": [
+      "lenovo.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Toyota Tsusho",
+    "domains": [
+      "toyota-tsusho.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "MetLife",
+    "domains": [
+      "metlife.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Merchants Bank",
+    "domains": [
+      "cmbchina.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Prudential Financial",
+    "domains": [
+      "prudential.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Jiangxi Copper",
+    "domains": [
+      "jxcc.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "PTT",
+    "domains": [
+      "pttplc.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Vanke",
+    "domains": [
+      "vanke.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Zurich Insurance Group",
+    "domains": [
+      "zurich.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Zhejiang Rongsheng Holding Group",
+    "domains": [
+      "rong-sheng.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Poly Group",
+    "domains": [
+      "poly.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Pacific Insurance (Group)",
+    "domains": [
+      "cpic.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Walt Disney",
+    "domains": [
+      "thewaltdisneycompany.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Energy Transfer",
+    "domains": [
+      "energytransfer.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Lockheed Martin",
+    "domains": [
+      "lockheedmartin.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Guangzhou Automobile Industry Group",
+    "domains": [
+      "gac.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "LG Electronics",
+    "domains": [
+      "lg.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "POSCO Holdings",
+    "domains": [
+      "posco.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "HBIS Group",
+    "domains": [
+      "hbisco.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Oil & Natural Gas",
+    "domains": [
+      "ongcindia.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Freddie Mac",
+    "domains": [
+      "freddiemac.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Wilmar International",
+    "domains": [
+      "wilmar-international.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Panasonic Holdings",
+    "domains": [
+      "holdings.panasonic"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "JBS",
+    "domains": [
+      "jbs.com.br"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Goldman Sachs Group",
+    "domains": [
+      "goldmansachs.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China National Building Material Group",
+    "domains": [
+      "cnbm.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Raytheon Technologies",
+    "domains": [
+      "rtx.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Aviva",
+    "domains": [
+      "aviva.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Shandong Weiqiao Pioneering Group",
+    "domains": [
+      "weiqiaocy.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Aegon",
+    "domains": [
+      "aegon.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Rio Tinto Group",
+    "domains": [
+      "riotinto.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "HP",
+    "domains": [
+      "hp.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Legal & General Group",
+    "domains": [
+      "legalandgeneralgroup.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Boeing",
+    "domains": [
+      "boeing.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Unilever",
+    "domains": [
+      "unilever.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Maersk Group",
+    "domains": [
+      "maersk.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Airbus",
+    "domains": [
+      "airbus.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Industrial Bank",
+    "domains": [
+      "cib.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Shaanxi Coal & Chemical Industry",
+    "domains": [
+      "shccig.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Everbright Group",
+    "domains": [
+      "ebchina.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Morgan Stanley",
+    "domains": [
+      "morganstanley.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Kia",
+    "domains": [
+      "kia.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "BHP Group",
+    "domains": [
+      "bhp.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Nippon Steel Corporation",
+    "domains": [
+      "nipponsteel.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Huaneng Group",
+    "domains": [
+      "chng.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Petronas",
+    "domains": [
+      "petronas.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Ansteel Group",
+    "domains": [
+      "ansteel.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Vinci",
+    "domains": [
+      "vinci.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Bunge",
+    "domains": [
+      "bunge.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Société Générale",
+    "domains": [
+      "societegenerale.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "HCA Healthcare",
+    "domains": [
+      "hcahealthcare.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Lloyds Banking Group",
+    "domains": [
+      "lloydsbankinggroup.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Pertamina",
+    "domains": [
+      "pertamina.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Sinomach",
+    "domains": [
+      "sinomach.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Taiwan Semiconductor Manufacturing",
+    "domains": [
+      "tsmc.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Shanghai Pudong Development Bank",
+    "domains": [
+      "spdb.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "AbbVie",
+    "domains": [
+      "abbvie.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "CMA CGM",
+    "domains": [
+      "cma-cgm.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Zhejiang Geely Holding Group",
+    "domains": [
+      "zgh.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Deutsche Bahn",
+    "domains": [
+      "deutschebahn.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Vale",
+    "domains": [
+      "vale.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Power Corp. of Canada",
+    "domains": [
+      "powercorporation.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Electronics Technology Group",
+    "domains": [
+      "cetc.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "SoftBank Group",
+    "domains": [
+      "group.softbank"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Dow",
+    "domains": [
+      "dow.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "State Bank of India",
+    "domains": [
+      "sbi.co.in"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Renault",
+    "domains": [
+      "renaultgroup.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Tsingshan Holding Group",
+    "domains": [
+      "tssgroup.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Anheuser-Busch InBev",
+    "domains": [
+      "ab-inbev.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Mitsubishi UFJ Financial Group",
+    "domains": [
+      "mufg.jp"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Shenghong Holding Group",
+    "domains": [
+      "shenghonggroup.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Tesla",
+    "domains": [
+      "tesla.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China State Shipbuilding",
+    "domains": [
+      "cssc.net.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Talanx",
+    "domains": [
+      "talanx.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Midea Group",
+    "domains": [
+      "midea-group.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Allstate",
+    "domains": [
+      "allstate.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Vodafone Group",
+    "domains": [
+      "vodafone.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Novartis",
+    "domains": [
+      "novartis.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Korea Electric Power",
+    "domains": [
+      "kepco.co.kr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Idemitsu Kosan",
+    "domains": [
+      "idemitsu.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Repsol",
+    "domains": [
+      "repsol.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Saint-Gobain",
+    "domains": [
+      "saint-gobain.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Tokio Marine Holdings",
+    "domains": [
+      "tokiomarinehd.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Bayer",
+    "domains": [
+      "bayer.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "American International Group",
+    "domains": [
+      "aig.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Edeka Zentrale",
+    "domains": [
+      "verbund.edeka"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Shaanxi Yanchang Petroleum (Group)",
+    "domains": [
+      "sxycpc.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Best Buy",
+    "domains": [
+      "investors.bestbuy.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Charter Communications",
+    "domains": [
+      "charter.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "State Power Investment",
+    "domains": [
+      "spic.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Sysco",
+    "domains": [
+      "sysco.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Merck",
+    "domains": [
+      "merck.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "New York Life Insurance",
+    "domains": [
+      "newyorklife.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Zhejiang Hengyi Group",
+    "domains": [
+      "hengyi.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Caterpillar",
+    "domains": [
+      "caterpillar.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Xiaomi",
+    "domains": [
+      "mi.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China United Network Communications",
+    "domains": [
+      "chinaunicom-a.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Accenture",
+    "domains": [
+      "accenture.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Energy Engineering Group",
+    "domains": [
+      "ceec.net.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Sberbank",
+    "domains": [
+      "sberbank.ru"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Orange",
+    "domains": [
+      "orange.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Woolworths Group",
+    "domains": [
+      "woolworthsgroup.com.au"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Minsheng Banking",
+    "domains": [
+      "cmbc.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Cisco Systems",
+    "domains": [
+      "cisco.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "América Móvil",
+    "domains": [
+      "americamovil.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Louis Dreyfus",
+    "domains": [
+      "ldc.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Manulife Financial",
+    "domains": [
+      "manulife.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Denso",
+    "domains": [
+      "denso.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Sumitomo",
+    "domains": [
+      "sumitomocorp.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "TJX",
+    "domains": [
+      "tjx.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "KDDI",
+    "domains": [
+      "kddi.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Groupe BPCE",
+    "domains": [
+      "groupebpce.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Publix Super Markets",
+    "domains": [
+      "publix.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "ConocoPhillips",
+    "domains": [
+      "conocophillips.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Liberty Mutual Insurance Group",
+    "domains": [
+      "libertymutual.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Progressive",
+    "domains": [
+      "progressive.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Ingka Group",
+    "domains": [
+      "ingka.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "AIA Group",
+    "domains": [
+      "aia.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Nationwide",
+    "domains": [
+      "nationwide.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Tokyo Electric Power",
+    "domains": [
+      "tepco.co.jp"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Jiangsu Shagang Group",
+    "domains": [
+      "shasteel.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Tyson Foods",
+    "domains": [
+      "tysonfoods.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "EXOR Group",
+    "domains": [
+      "exor.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "GSK",
+    "domains": [
+      "gsk.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Bharat Petroleum",
+    "domains": [
+      "bharatpetroleum.in"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Swiss Re",
+    "domains": [
+      "swissre.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China National Coal Group",
+    "domains": [
+      "chinacoal.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Intesa Sanpaolo",
+    "domains": [
+      "group.intesasanpaolo.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Susun Construction Group",
+    "domains": [
+      "ss-ceo.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Telefónica",
+    "domains": [
+      "telefonica.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Bristol-Myers Squibb",
+    "domains": [
+      "bms.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Zhejiang Communications Investment Group",
+    "domains": [
+      "cncico.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Sanofi",
+    "domains": [
+      "sanofi.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Iberdrola",
+    "domains": [
+      "iberdrola.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "LyondellBasell Industries",
+    "domains": [
+      "lyondellbasell.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Hanwha",
+    "domains": [
+      "hanwhacorp.co.kr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Royal Bank of Canada",
+    "domains": [
+      "rbc.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Alimentation Couche-Tard",
+    "domains": [
+      "corpo.couche-tard.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "MS&AD Insurance Group Holdings",
+    "domains": [
+      "ms-ad-hd.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "ZF Friedrichshafen",
+    "domains": [
+      "zf.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Pegatron",
+    "domains": [
+      "pegatroncorp.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Continental",
+    "domains": [
+      "continental.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Nike",
+    "domains": [
+      "nike.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Bouygues",
+    "domains": [
+      "bouygues.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China South Industries Group",
+    "domains": [
+      "csgc.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Fresenius",
+    "domains": [
+      "fresenius.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Compal Electronics",
+    "domains": [
+      "compal.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Deere",
+    "domains": [
+      "deere.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "George Weston",
+    "domains": [
+      "weston.ca"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "American Express",
+    "domains": [
+      "americanexpress.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Shanghai Construction Group",
+    "domains": [
+      "scg.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Aerospace Science & Technology",
+    "domains": [
+      "spacechina.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Volvo",
+    "domains": [
+      "volvogroup.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Electronics",
+    "domains": [
+      "cec.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Abbott Laboratories",
+    "domains": [
+      "abbott.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Huadian",
+    "domains": [
+      "chd.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "StoneX Group",
+    "domains": [
+      "stonex.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Shougang Group",
+    "domains": [
+      "shougang.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Plains GP Holdings",
+    "domains": [
+      "plains.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "OMV Group",
+    "domains": [
+      "omv.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Anglo American",
+    "domains": [
+      "angloamerican.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Shandong Iron & Steel Group",
+    "domains": [
+      "shansteelgroup.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Itaú Unibanco Holding",
+    "domains": [
+      "itau.com.br"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Taiping Insurance Group",
+    "domains": [
+      "cntaiping.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "SNCF Group",
+    "domains": [
+      "sncf.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Hangzhou Iron and Steel Group",
+    "domains": [
+      "hzsteel.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "DZ Bank",
+    "domains": [
+      "dzbank.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Chubb",
+    "domains": [
+      "chubb.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Jinchuan Group",
+    "domains": [
+      "jnmc.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "La Poste",
+    "domains": [
+      "groupelaposte.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Aerospace Science & Industry",
+    "domains": [
+      "casic.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "J. Sainsbury",
+    "domains": [
+      "about.sainsburys.co.uk"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Enterprise Products Partners",
+    "domains": [
+      "enterpriseproducts.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "ThyssenKrupp",
+    "domains": [
+      "thyssenkrupp.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "UBS Group",
+    "domains": [
+      "ubs.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Taikang Insurance Group",
+    "domains": [
+      "taikang.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "TIAA",
+    "domains": [
+      "tiaa.org"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Oracle",
+    "domains": [
+      "oracle.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Quanta Computer",
+    "domains": [
+      "quantatw.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Deutsche Bank",
+    "domains": [
+      "db.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Mitsubishi Electric",
+    "domains": [
+      "mitsubishielectric.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Banco Bilbao Vizcaya Argentaria",
+    "domains": [
+      "bbva.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Anhui Conch Group",
+    "domains": [
+      "chinaconch.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Daiwa House Industry",
+    "domains": [
+      "daiwahouse.co.jp"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Thermo Fisher Scientific",
+    "domains": [
+      "thermofisher.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "New Hope Holding Group",
+    "domains": [
+      "newhopegroup.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Koç Holding",
+    "domains": [
+      "koc.com.tr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "JFE Holdings",
+    "domains": [
+      "jfe-holdings.co.jp"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Coca-Cola",
+    "domains": [
+      "coca-colacompany.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Guangzhou Municipal Construction Group",
+    "domains": [
+      "gzmcg.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "General Dynamics",
+    "domains": [
+      "gd.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "CHS",
+    "domains": [
+      "chsinc.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Beijing Jianlong Heavy Industry Group",
+    "domains": [
+      "ejianlong.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China National Nuclear",
+    "domains": [
+      "cnnc.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "ACS",
+    "domains": [
+      "grupoacs.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Toronto-Dominion Bank",
+    "domains": [
+      "td.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "L'Oréal",
+    "domains": [
+      "loreal.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Energie Baden-Württemberg",
+    "domains": [
+      "enbw.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "LG Chem",
+    "domains": [
+      "lgchem.co.kr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Tata Motors",
+    "domains": [
+      "tatamotors.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "ELO Group",
+    "domains": [
+      "groupe-elo.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Shenzhen Investment Holdings",
+    "domains": [
+      "sihc.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "SK Hynix",
+    "domains": [
+      "skhynix.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Barclays",
+    "domains": [
+      "home.barclays"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Enbridge",
+    "domains": [
+      "enbridge.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Cathay Financial Holding",
+    "domains": [
+      "cathayholdings.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Meiji Yasuda Life Insurance",
+    "domains": [
+      "meijiyasuda.co.jp"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Poste Italiane",
+    "domains": [
+      "posteitaliane.it"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "United Services Automobile Assn.",
+    "domains": [
+      "usaa.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Finatis",
+    "domains": [
+      "finatis.fr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "AstraZeneca",
+    "domains": [
+      "astrazeneca.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "KB Financial Group",
+    "domains": [
+      "kbfg.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Sompo Holdings",
+    "domains": [
+      "sompo-hd.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Cenovus Energy",
+    "domains": [
+      "cenovus.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "CRRC Group",
+    "domains": [
+      "crrcgc.cc"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Jingye Group",
+    "domains": [
+      "hbjyjt.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Northwestern Mutual",
+    "domains": [
+      "northwesternmutual.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Sumitomo Mitsui Financial Group",
+    "domains": [
+      "smfg.co.jp"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Nucor",
+    "domains": [
+      "nucor.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Hyundai Mobis",
+    "domains": [
+      "mobis.co.kr"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Exelon",
+    "domains": [
+      "exeloncorp.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Magna International",
+    "domains": [
+      "magna.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "CK Hutchison Holdings",
+    "domains": [
+      "ckh.com.hk"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Phoenix Pharma",
+    "domains": [
+      "phoenixgroup.eu"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Massachusetts Mutual Life Insurance",
+    "domains": [
+      "massmutual.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Kuehne + Nagel International",
+    "domains": [
+      "kuehne-nagel.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Jardine Matheson",
+    "domains": [
+      "jardines.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Raízen",
+    "domains": [
+      "raizen.com.br"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Northrop Grumman",
+    "domains": [
+      "northropgrumman.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "TongLing Nonferrous Metals Group",
+    "domains": [
+      "tnmg.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Mitsubishi Chemical Holdings",
+    "domains": [
+      "mitsubishichem-hd.co.jp"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "3M",
+    "domains": [
+      "3m.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "British American Tobacco",
+    "domains": [
+      "bat.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Mizuho Financial Group",
+    "domains": [
+      "mizuhogroup.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Haier Smart Home",
+    "domains": [
+      "haier.net"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Olam Group",
+    "domains": [
+      "olamgroup.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Zijin Mining Group",
+    "domains": [
+      "zjky.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Heraeus Holding",
+    "domains": [
+      "heraeus.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Aisin",
+    "domains": [
+      "aisin.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Travelers",
+    "domains": [
+      "travelers.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China Datang",
+    "domains": [
+      "china-cdt.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Longfor Group Holdings",
+    "domains": [
+      "longfor.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Shudao Investment Group",
+    "domains": [
+      "shudaojt.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "China National Aviation Fuel Group",
+    "domains": [
+      "cnaf.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Arrow Electronics",
+    "domains": [
+      "arrow.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "New China Life Insurance",
+    "domains": [
+      "newchinalife.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Honeywell International",
+    "domains": [
+      "honeywell.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Mitsubishi Heavy Industries",
+    "domains": [
+      "mhi.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Dollar General",
+    "domains": [
+      "dollargeneral.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Schneider Electric",
+    "domains": [
+      "se.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Hunan Iron & Steel Group",
+    "domains": [
+      "chinavalin.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Lu’an Chemical Group",
+    "domains": [
+      "chinaluan.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Siemens Energy",
+    "domains": [
+      "siemens-energy.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "PKN ORLEN Group",
+    "domains": [
+      "orlen.pl"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "ING Group",
+    "domains": [
+      "ing.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Phoenix Group Holdings",
+    "domains": [
+      "thephoenixgroup.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Veolia Environnement",
+    "domains": [
+      "veolia.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Coop Group",
+    "domains": [
+      "coop.ch"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Qualcomm",
+    "domains": [
+      "qualcomm.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Shanghai Pharmaceuticals Holding",
+    "domains": [
+      "sphchina.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Shanxi Coking Coal Group",
+    "domains": [
+      "sxcc.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "CarMax",
+    "domains": [
+      "carmax.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "SAP",
+    "domains": [
+      "sap.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Xinjiang Zhongtai Group",
+    "domains": [
+      "ww.zhtx.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Tata Steel",
+    "domains": [
+      "tatasteel.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "BYD",
+    "domains": [
+      "byd.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Rajesh Exports",
+    "domains": [
+      "rajeshindia.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Inditex",
+    "domains": [
+      "inditex.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Banco Bradesco",
+    "domains": [
+      "bradesco.com.br"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Fubon Financial Holding",
+    "domains": [
+      "fubon.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "S.F. Holding",
+    "domains": [
+      "sf-express.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Sumitomo Life Insurance",
+    "domains": [
+      "sumitomolife.co.jp"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Capital One Financial",
+    "domains": [
+      "capitalone.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Canon",
+    "domains": [
+      "global.canon"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Guangxi Investment Group",
+    "domains": [
+      "gig.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Fujitsu",
+    "domains": [
+      "fujitsu.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Yunnan Provincial Investment Holding Group",
+    "domains": [
+      "cnyig.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Takeda Pharmaceutical",
+    "domains": [
+      "takeda.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Suzuki Motor",
+    "domains": [
+      "globalsuzuki.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Migros Group",
+    "domains": [
+      "migros.ch"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "TD Synnex",
+    "domains": [
+      "tdsynnex.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Weichai Power",
+    "domains": [
+      "weichaipower.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Xinjiang Guanghui Industry Investment",
+    "domains": [
+      "guanghui.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Philip Morris International",
+    "domains": [
+      "pmi.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "World Fuel Services",
+    "domains": [
+      "wfscorp.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Bank of Nova Scotia",
+    "domains": [
+      "scotiabank.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Suncor Energy",
+    "domains": [
+      "suncor.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Shandong Hi-Speed Group",
+    "domains": [
+      "sdhsg.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Hailiang Group",
+    "domains": [
+      "hailiang.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "CRH",
+    "domains": [
+      "crh.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Investor",
+    "domains": [
+      "investorab.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Wistron",
+    "domains": [
+      "wistron.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Linde",
+    "domains": [
+      "linde.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Samsung Life Insurance",
+    "domains": [
+      "samsunglife.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Banco do Brasil",
+    "domains": [
+      "bb.com.br"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Chengdu Xingcheng Investment Group",
+    "domains": [
+      "cdxctz.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Guangzhou Pharmaceutical Holdings",
+    "domains": [
+      "gpc.com.cn"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Performance Food Group",
+    "domains": [
+      "pfgc.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Shanghai Delong Steel Group",
+    "domains": [
+      "shanghaidelong.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "GS Caltex",
+    "domains": [
+      "gscaltex.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Mercadona",
+    "domains": [
+      "mercadona.es"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "CJ Corp.",
+    "domains": [
+      "cj.net"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Medtronic",
+    "domains": [
+      "medtronic.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Samsung C&T",
+    "domains": [
+      "samsungcnt.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "CPC",
+    "domains": [
+      "cpc.com.tw"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Sumitomo Electric Industries",
+    "domains": [
+      "global-sei.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "X5 Retail Group",
+    "domains": [
+      "x5.ru"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Delta Air Lines",
+    "domains": [
+      "delta.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "American Airlines Group",
+    "domains": [
+      "aa.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Toshiba",
+    "domains": [
+      "toshiba.co.jp"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Netflix",
+    "domains": [
+      "netflix.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Metro",
+    "domains": [
+      "metroag.de"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Paramount Global",
+    "domains": [
+      "paramount.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Bridgestone",
+    "domains": [
+      "bridgestone.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "US Foods Holding",
+    "domains": [
+      "usfoods.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Danaher",
+    "domains": [
+      "danaher.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Gree Electric Appliances",
+    "domains": [
+      "gree.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Holcim",
+    "domains": [
+      "holcim.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Medipal Holdings",
+    "domains": [
+      "medipal.co.jp"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Jabil",
+    "domains": [
+      "jabil.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Randstad",
+    "domains": [
+      "randstad.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Starbucks",
+    "domains": [
+      "starbucks.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Coles Group",
+    "domains": [
+      "colesgroup.com.au"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Credit Suisse Group",
+    "domains": [
+      "credit-suisse.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "RWE",
+    "domains": [
+      "rwe.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "DSV",
+    "domains": [
+      "dsv.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "ABB",
+    "domains": [
+      "abb.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Mondelez International",
+    "domains": [
+      "mondelezinternational.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Danone",
+    "domains": [
+      "danone.com"
+    ],
+    "aliases": []
+  },
+  {
+    "name": "Umicore",
+    "domains": [
+      "umicore.com"
+    ],
+    "aliases": []
+  }
+]
